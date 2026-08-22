@@ -1,16 +1,11 @@
-## Hi there 👋
-
-<!--
-**MaddyMarv/MaddyMarv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div align="center">
+  <a href="https://ko-fi.com/indicabunny" target="_blank">
+    <img src="https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white" alt="Ko-fi" />
+  </a>
+  <a href="https://steamcommunity.com/profiles/76561198167238958/" target="_blank">
+    <img src="https://img.shields.io/badge/Steam-171A21?style=for-the-badge&logo=steam&logoColor=white" alt="Steam" />
+  </a>
+  <a href="https://www.nexusmods.com/profile/indicabunny" target="_blank">
+    <img src="https://img.shields.io/badge/Nexus_Mods-DA8E35?style=for-the-badge&logo=nexusmods&logoColor=white" alt="Nexus Mods" />
+  </a>
+</div>
