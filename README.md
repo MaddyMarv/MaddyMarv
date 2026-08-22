@@ -1,7 +1,4 @@
-<div align="center">
-  <img src="https://img.shields.io/badge/Discord-%40indicabunny710-5865F2?style=flat-square&logo=discord&logoColor=white" alt="Discord" />
-  &nbsp;
-  <a href="https://ko-fi.com/indicabunny" target="_blank">
+<a href="https://ko-fi.com/indicabunny" target="_blank">
     <img src="https://img.shields.io/badge/Ko--fi-F16061?style=flat-square&logo=ko-fi&logoColor=white" alt="Ko-fi" />
   </a>
   &nbsp;
