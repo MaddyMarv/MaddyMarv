@@ -9,3 +9,20 @@
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=indicabunny&style=flat&color=blue" alt="Profile Views" />
 </div>
+
+<div align="left">
+<pre><code>
+                                                          
+                                  ,-.       _,---._ __  / \
+                                 /  )    .-'       `./ /   \
+                                (  (   ,'            `/    /|
+                                 \  `-"             \'\   / |
+                                  `.             ,  \  \ /  |
+                                    /`.          ,'-`---Y   |
+                                   (           ;        |   '
+                                   |  ,-.    ,-'        |  /
+                                   |  | (   |           | /
+                                   )  |  \  `.__________|/
+                                   `--'   `--'
+</code></pre>
+</div>
